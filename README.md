@@ -11,7 +11,7 @@ A launcher that restores the content cut from the 2004 release into Fate/stay ni
 ## What you need
 
 1. **Fate/stay night REMASTERED** on Steam (game version 1.4.2.391).
-2. **Fate/stay night [Réalta Nua] Ultimate Edition v1.1.4,** installed. You can install it from here: https://sukebei.nyaa.si/view/3860991. Claude made it mandatory cause of it's safety protections regarding redistributing copy right material and I don't know how to bypass pass it sadly.
+2. **Fate/stay night [Réalta Nua] Ultimate Edition v1.1.4,** installed. You can install it from sukebei.nyaa. Claude made it mandatory cause of it's safety protections regarding redistributing copy right material and I don't know how to bypass pass it sadly.
 
 ## How to use
 
